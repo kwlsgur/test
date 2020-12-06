@@ -1,0 +1,72 @@
+[33mcommit bbfd768dffa66d388e6e2320ca4d5231dbdb2ea3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: kwlsgur <kwlsgur@naver.com>
+Date:   Sun Dec 6 22:59:20 2020 +0900
+
+    test1
+
+[33mcommit 697ff434a6fa1f52afd941ab4cdffba3e8a67951[m
+Merge: 9028509 0e8a505
+Author: kwlsgur <--unset-all>
+Date:   Sun Dec 6 22:52:58 2020 +0900
+
+    Merge branch 'main' of https://github.com/kwlsgur/test into main
+
+[33mcommit 0e8a50553b7eae725dec3b5589646d639a847c8d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: kwlsgur <kwlsgur@naver.com>
+Date:   Sun Dec 6 18:59:57 2020 +0900
+
+    test
+
+[33mcommit f523799e65038f19f25eb30156eaa5ff3019de63[m
+Author: kwlsgur <--add>
+Date:   Sun Dec 6 18:53:51 2020 +0900
+
+    a
+
+[33mcommit bb8fc38d81744c4692b80231741138abc7e028ad[m
+Author: --usnset-all <--replace-all>
+Date:   Sun Dec 6 18:49:27 2020 +0900
+
+    name2
+
+[33mcommit 967059a9b994c5d95951fa3153043aaea23ec04a[m
+Author: kwlsgur <--replace-all>
+Date:   Sun Dec 6 18:45:01 2020 +0900
+
+    name
+
+[33mcommit 00a593656e2cf00f7f47c483c07f0eae96de0dd2[m
+Author: kwlsgur <--replace-all>
+Date:   Sun Dec 6 17:49:21 2020 +0900
+
+    test
+
+[33mcommit 9028509a1eb7b43506b6fec9b9a9674efd8882fb[m[33m ([m[1;32missue3[m[33m)[m
+Author: kwlsgur <kwlsgur@naver.com>
+Date:   Mon Nov 16 19:09:34 2020 +0900
+
+    pull explain plus
+
+[33mcommit 913caf3ddf18f4b874be1b2a9f0086f1f0b13d66[m[33m ([m[1;32missue2[m[33m)[m
+Author: kwlsgur <kwlsgur@naver.com>
+Date:   Mon Nov 16 19:08:21 2020 +0900
+
+    commit explain plus
+
+[33mcommit bb2c90ac39a74f165ad87431f9ddcdf398b9c8d2[m
+Author: kwlsgur <kwlsgur@naver.com>
+Date:   Mon Nov 16 19:00:43 2020 +0900
+
+    add message
+
+[33mcommit 1cfa07d1c305bfd380425bf5ebb8dc5fed2f670e[m
+Author: kwlsgur <kwlsgur@naver.com>
+Date:   Mon Nov 16 18:46:30 2020 +0900
+
+    myname commit
+
+[33mcommit 0c00893ef69a607dbb2502a7dca9804434c72f20[m
+Author: kwlsgur <74181245+kwlsgur@users.noreply.github.com>
+Date:   Mon Nov 9 18:58:34 2020 +0900
+
+    Initial commit
